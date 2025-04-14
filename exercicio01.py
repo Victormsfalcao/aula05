@@ -7,4 +7,4 @@ while i <= n:
     if soma == 5:
         break
 
-print(f"A Soma dos valores é: {soma}")
+print(f"A Soma dos valores é: {soma} !")
